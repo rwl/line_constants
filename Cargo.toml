@@ -1,0 +1,10 @@
+[package]
+name = "powers"
+version = "0.1.0"
+description = "Overhead Line Constants Calculation Library"
+license = "BSD-3-Clause"
+repository = "https://github.com/rwl/line_constants"
+edition = "2018"
+
+[dependencies]
+num-complex = "0.4"
